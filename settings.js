@@ -8,12 +8,12 @@ const {
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
-   alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
+   alfa: 'https://zakyonee.cyclic.app', //apabila link api eror, segera laporkan ke owner
 }
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.xyz to get apikey
+   'https://zakyonee.cyclic.app': 'Alphabot', // 👉 login https://api.zeeoneofc.xyz to get apikey
 }
 
 // setting 
@@ -32,11 +32,11 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 // Other
 global.botname = "Jack-MD" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZakyOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.ownername = "Zakyxixi" //nama kalian
+global.myweb = "https://linktr.ee/jackx7z" //bebas asal jan hapus
+global.youtube = "https://youtube.com/@jackx7z839" //bebas asal jan hapus
+global.myweb2 = "https://linktr.ee/jackx7z" //bebas
+global.email = "ahmadzaki.ixc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6281324359485'] //premium user
@@ -48,13 +48,13 @@ global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '© Jack-MDdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh JackOfc' //sticker wm ganti nama kalian
+global.author = 'Di Buat Oleh Zaky' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
    premium: "10000",
-   free: 100
+   free: 20
 }
 
 global.adventureRPG = 'https://telegra.ph/file/ff94536d69e0f4f3e7b54.jpg'
